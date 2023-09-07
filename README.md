@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love myself ONLY;)
   
-I am not proficient with the previously tackled programming languages (i.e., CPP, Python, Javascript, HTML, CSS). But, I am open with various academic intercourses that could potential enhance my skills in back-end developing.
+I am not proficient with the previously tackled programming languages (i.e., CPP, Python, Javascript, HTML, CSS). But, I am open to various academic intercourses that could potentially enhance my skills in back-end developing.
