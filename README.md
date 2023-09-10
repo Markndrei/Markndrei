@@ -3,7 +3,7 @@
 
 
 
-<h3 align = "left" style= "color: #FFE4C4"> Connect with me:</h3>
+<h3 align = "left"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100010318056781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mark" height="30" width="40" /></a>
 <a href="https://instagram.com/markndrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markndrei" height="30" width="40" /></a>
@@ -72,7 +72,7 @@
   <br>
   <br>
   
-  <h4> other things that Piqued my interests: </h4>
+  <h4> Other things that piqued my interests: </h4>
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
