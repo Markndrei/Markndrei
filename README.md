@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark with the K, not C</h1>
 <h3 align="center">currently a second year BS in Computer Science learner at West Visayas State University</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align = "left" style= "color: #FFE4C4"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100010318056781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mark" height="30" width="40" /></a>
 <a href="https://instagram.com/markndrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markndrei" height="30" width="40" /></a>
