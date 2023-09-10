@@ -28,7 +28,7 @@
   <br>
   <br>
   
-  <h4> Backe-end Developer in the making: </h4>
+  <h4> Back-end Developer in the making: </h4>
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"       width="40" height="40"/> 
@@ -73,7 +73,7 @@
   <br>
   <br>
   
-  <h4> Other things that Piqued my interests: </h4>
+  <h4> other things that Piqued my interests: </h4>
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
