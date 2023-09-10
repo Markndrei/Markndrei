@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-  <h5> Programming Languages: </h5>
+  <h4> Programming Languages: </h4>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a>
