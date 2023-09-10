@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my back-end programming languages
 - 🌱 I’m currently learning how to compose the visual elements of a webpage properly
 - 👯 I’m looking to collaborate on various projects involving web development
 - 🤔 I’m looking for ka-late night talks hehe... about coding obcurs <3
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love myself ONLY;)
   
-I am not proficient with the previously tackled programming languages (i.e., CPP, Python, Javascript, HTML, CSS). But, I am open to various academic intercourses that could potentially enhance my skills in back-end developing.
+I am not proficient with the aforementioned programming languages (e.g., CPP, Python, Javascript, HTML, CSS). But, I am open to various academic intercourses that could potentially enhance my skills in back-end developing.
