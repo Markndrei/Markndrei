@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark with the K, not C</h1>
 <h3 align="center">currently a second year BS in Computer Science learner at West Visayas State University</h3>
 
-<img align="center" width = "500" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zuic8j95z8www2accuczv84euvq53olseca5lxp4&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="center" width = "500" margin-left ="30%" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47zuic8j95z8www2accuczv84euvq53olseca5lxp4&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <h3 align = "left"> Connect with me:</h3>
 <p align="left">
