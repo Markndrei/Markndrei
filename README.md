@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning how to compose the visual elements of a webpage properly
+- 🌱 I’m currently learning how to compose visual elements of a webpage properly
 - 👯 I’m looking to collaborate on various projects involving web development
 - 🤔 I’m looking for ka-late night talks hehe... about coding obcurs <3
 - 💬 Ask me about something personal :]
