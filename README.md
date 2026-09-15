@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Mark with the K, not C</h1>
+<h3 align="center">currently a third year BS in Computer Science learner at West Visayas State University</h3>
+
 
 <h3 align = "left"> Connect with me:</h3>
 <p align="left">
